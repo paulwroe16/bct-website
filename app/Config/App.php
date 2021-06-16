@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'thedaisyclinic.epizy.com';
+	public $baseURL = 'thedaisyclinic.epizy.com/';
 
 	/**
 	 * --------------------------------------------------------------------------
